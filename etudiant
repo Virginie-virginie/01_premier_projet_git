@@ -3,4 +3,5 @@ public class Etudiant {
 		private String nom;
 		private String prenom;
 		Private String mail;
+		private String qqchose;
 }
